@@ -1,7 +1,7 @@
 # Main
 The ENIGMA Developmental Brain Age working group principally consists of Drs:
-- James H. Cole
 - Niall Bourke
+- James H. Cole
 - Heather Whalley
 - David Glahn
 - Laura Han
